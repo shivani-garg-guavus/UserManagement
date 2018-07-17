@@ -1,4 +1,4 @@
-# Demo
+# UI Demo
 
 Welcome to User Management demo UI!
 
