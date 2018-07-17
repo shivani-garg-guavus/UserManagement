@@ -21,6 +21,7 @@ Timezone field will be shown as drop down if application support multiple timezo
 For LDAP users only Roles/Dimensions permissions can be modified, rest all fields are non editable. Enabled/Disable users not available in case of LDAP users.
 
 * **Manage Roles**
+
 In this tab, we will see list of roles available in this system. Admin can create new roles by clicking add role button. He will see popup showing all the modules/privileges of the system. 
 
 Roles is nothing but combination of Module/Service/Feature privileges/permissions.
