@@ -1,4 +1,4 @@
-# Showcase
+# Demo
 
-[Demo](http://ui-demos.guavus.com/html5/User-Management/)
+[Launch Dashboard](http://ui-demos.guavus.com/html5/User-Management/)
 
