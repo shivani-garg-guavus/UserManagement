@@ -41,7 +41,7 @@ User Management provides support internationlization so that it can easily be ad
 
 The Notification service feature provided by User Management can be used by any third party solution which is using User Management. The aim of the this feature is to send a notification to third party solutions whenever any aspect of user changes.
 
-**User Management** uses [Kafka] (http://kafka.apache.org) for its notification service. It sends a notifcation whenever a user or role is created/updated/deleted.
+**User Management** uses [Kafka](http://kafka.apache.org) for its notification service. It sends a notifcation whenever a user or role is created/updated/deleted.
 
 ### REST API
 
