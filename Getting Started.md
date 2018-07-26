@@ -6,4 +6,4 @@ As stated earlier User Management provides APIs for modifying any aspect of an u
 2. Integration of any solution with UserManagement, click [here](https://confluence.guavus.com/display/PA/User+Management+Integration+with+Solution).
 
 After Integration with UM Solution, user can log into User Management application by using default admin user and utilize the user interface for creating new users and roles, but solution specific permissions and applications can not be created using the user interface. 
-To  create  default set of a permissions and applications solution needs to use [this public](https://confluence.guavus.com/display/PA/User+Management+API#UserManagementAPI-PublicAPIs) API  at the time of solution installation on top of platform.
+To  create  default set of a permissions and applications solution needs to use [this public] (https://confluence.guavus.com/display/PA/User+Management+API#UserManagementAPI-PublicAPIs) API  at the time of solution installation on top of platform.
